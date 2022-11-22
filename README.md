@@ -169,7 +169,7 @@ for development purpose.
 
 ## Author
 
-[Mgs. Tabrani (13519122)](https://github.com/mgstabrani)
+[Hedrin Sitorus)](https://github.com/HedrinSitorus20)
 
 ## Reference
 
