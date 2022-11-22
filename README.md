@@ -169,7 +169,7 @@ for development purpose.
 
 ## Author
 
-[Hedrin Sitorus)](https://github.com/HedrinSitorus20)
+[(Hedrin Sitorus)](https://github.com/HedrinSitorus20)
 
 ## Reference
 
